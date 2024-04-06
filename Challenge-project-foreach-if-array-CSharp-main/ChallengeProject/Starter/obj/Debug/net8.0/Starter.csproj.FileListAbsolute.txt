@@ -1,0 +1,14 @@
+/Users/shaniabrown/Desktop/projects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter
+/Users/shaniabrown/Desktop/projects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/Users/shaniabrown/Desktop/projects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/Users/shaniabrown/Desktop/projects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.dll
+/Users/shaniabrown/Desktop/projects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.pdb
+/Users/shaniabrown/Desktop/projects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shaniabrown/Desktop/projects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/Users/shaniabrown/Desktop/projects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/Users/shaniabrown/Desktop/projects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/Users/shaniabrown/Desktop/projects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.dll
+/Users/shaniabrown/Desktop/projects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/Users/shaniabrown/Desktop/projects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.pdb
+/Users/shaniabrown/Desktop/projects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/Users/shaniabrown/Desktop/projects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/ref/Starter.dll
