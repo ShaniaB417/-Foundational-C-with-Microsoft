@@ -11,22 +11,22 @@ By the end of this course, I will have acquired the practical skills and knowled
 Each section below corresponds to a trophy on the [Microsoft Learn platform](https://learn.microsoft.com/en-us/users/shaniajbrown-2344/). After earning each trophy, learners must verify them on freeCodeCamp. Once verified, learners qualify for the certification exam.
 
 ### 1. [Introduction to C#](https://learn.microsoft.com/en-us/users/shaniajbrown-2344/)
-![Trophy](trophy_icon.png)
+
 
 Description: Introduction to the basics of C# programming language, including syntax and structure.
 
 ### 2. [Variables and Data Types](https://learn.microsoft.com/en-us/users/shaniajbrown-2344/)
-![Trophy](trophy_icon.png)
+
 
 Description: Understanding variables, data types, and their usage in C#.
 
 ### 3. [Control Structures](https://learn.microsoft.com/en-us/users/shaniajbrown-2344/)
-![Trophy](trophy_icon.png)
+
 
 Description: Learning about control structures such as loops and conditionals in C#.
 
 ### 4. [Object-Oriented Programming Principles](https://learn.microsoft.com/en-us/users/shaniajbrown-2344/)
-![Trophy](trophy_icon.png)
+
 
 Description: Exploring object-oriented programming concepts like classes, objects, inheritance, and polymorphism in C#.
 
